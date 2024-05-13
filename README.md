@@ -1,9 +1,14 @@
 # Imersao_Inteligencia_Artificial
 
-Aula 4: Criação de um chatbot com API Gemini pelo Google Colab, realizado no curso da Alura de imersão de IA com Google
-Aula 5: Criação de um sistema para busca em documentos, utilizando embeddings e Gemini API 
+### Descrição do Projeto
+Criação de um chatbot com API Gemini pelo Google Colab, realizado no curso da Alura em parceria com a Google
 
-Links úteis: 
+### Aulas
+- **Aula 4:** Criação de um chatbot com API Gemini pelo Google Colab, realizado no curso da Alura de imersão de IA com Google
+
+- **Aula 5:** Criação de um sistema para busca em documentos, utilizando embeddings e Gemini API 
+
+### Links úteis 
 
 - [Google AI Studio](https://aistudio.google.com/app/prompts/new_chat?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=)
 - [Google API Key](https://aistudio.google.com/app/apikey)
